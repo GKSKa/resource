@@ -1,3 +1,1 @@
-# ComputerVision
-
-Computer Vision projects and implementations.
+# resource
